@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Task5:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Task5_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Task5.jar">
+        <element id="module-output" name="Task5" />
+      </element>
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+    </root>
+  </artifact>
+</component>
